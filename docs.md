@@ -1,8 +1,16 @@
+#Project Collaboration
 This project is designed to help people practice collaboration in github.
-This project includes the following features:
+
+ 
+ ##Key Features
+
  -
+
  - 
+
  - 
+
  -
+
  -
 
